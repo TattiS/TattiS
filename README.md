@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer with a background in science and education  
 🌍 Passionate about building web applications that are both functional and beautiful  
-👨‍👦 Looking forward to working with a European company and relocating with my family to Romania  
+🤝 Looking for a team where I can grow professionally and make meaningful contributions 
 📚 A lifelong learner who enjoys clean code, good UI/UX, and meaningful collaboration  
 
 ---
