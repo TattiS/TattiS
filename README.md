@@ -27,7 +27,7 @@
 
 ### 🚀 Selected Projects
 
-#### 🚗 [PerfectRentalCar](https://github.com/TattiS/PerfectRentalCar) – Solo Project  
+#### 🚗 [PerfectRentalCar](https://github.com/TattiS/PerfectRentalCar) – Solo Project  *(in progress)*
 A car rental app with filtering, responsive UI, Redux Toolkit, and backend API integration.
 
 #### 🍽️ [Byte-Bite v2.0](https://github.com/Woolfson-Julia/Byte-Bite-v2.0) – Team Collaboration  
