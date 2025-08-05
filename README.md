@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer with a background in science and education  
 🌍 Passionate about building web applications that are both functional and beautiful  
-🤝 Looking for a team where I can grow professionally and make meaningful contributions 
+🤝 Looking for a team where I can grow professionally and make meaningful contributions   
 📚 A lifelong learner who enjoys clean code, good UI/UX, and meaningful collaboration  
 
 ---
@@ -27,14 +27,14 @@
 
 ### 🚀 Selected Projects
 
+#### 📦 [STP-9497](https://github.com/Woolfson-Julia/STP-9497) – Team Project  
+Developed user interface components, integrated API endpoints, and styled key sections of the app.
+
 #### 🚗 [PerfectRentalCar](https://github.com/TattiS/PerfectRentalCar) – Solo Project  *(in progress)*
 A car rental app with filtering, responsive UI, Redux Toolkit, and backend API integration.
 
 #### 🍽️ [Byte-Bite v2.0](https://github.com/Woolfson-Julia/Byte-Bite-v2.0) – Team Collaboration  
 A restaurant management app. I worked on form handling, modals, and UI styling using React.
-
-#### 📦 [STP-9497](https://github.com/Woolfson-Julia/STP-9497) – Team Project  
-Developed user interface components, integrated API endpoints, and styled key sections of the app.
 
 📁 More collaborative projects:
 - [Byte-Bite (initial version)](https://github.com/Woolfson-Julia/Byte-Bite)  
