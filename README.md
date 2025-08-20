@@ -27,7 +27,7 @@
 
 ### 🚀 Selected Projects
 
-#### 📦 [STP-9497](https://github.com/Woolfson-Julia/STP-9497) – Team Project  
+#### 📦 [STP-9497](https://github.com/Woolfson-Julia/STP-9497) – Team Project for Evoplay
 Developed user interface components, integrated API endpoints, and styled key sections of the app.
 
 #### 🚗 [PerfectRentalCar](https://github.com/TattiS/PerfectRentalCar) – Solo Project  *(in progress)*
